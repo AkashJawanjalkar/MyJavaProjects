@@ -1,0 +1,5 @@
+com\org\dairy\model\Bekary.class
+com\org\dairy\model\Category.class
+com\org\dairy\model\Product.class
+com\org\dairy\DairyProductApplication.class
+com\org\dairy\model\Milk.class
